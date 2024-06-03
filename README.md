@@ -11,7 +11,7 @@ The dataset used in this project is the [Credit Card Fraud Detection dataset](ht
 ### Prerequisites
 - AWS account with access to SageMaker and S3
 - Python 3.7+
-- Required Python packages listed in `requirements.txt`
+
 
 ## Evaluation
 - Evaluate the model's performance on the test set using metrics like Precision, Recall, and F1-Score.
